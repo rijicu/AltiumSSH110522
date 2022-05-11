@@ -35,18 +35,7 @@ IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=03F2B5B6-DE40-4AF7-9AD6-6A8C2BF0811B
-VaultGUID=F9C87B2E-2925-42AF-849E-50258DEF1E2A
-ReleaseVaultName=Created20190930
-ItemGUID=03F2B5B6-DE40-4AF7-9AD6-6A8C2BF0811B
-Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=F9C87B2E-2925-42AF-849E-50258DEF1E2A&ItemGUID=2BE95E32-0EDC-43A4-9444-3A5E979901EA&RevisionGUID=6AAC8F4F-DF25-44F3-8ECC-02C363F0FC26&"MainFilename=PCB_Project1.PrjPCB"
-IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
+
 
 [Preferences]
 PrefsVaultGUID=
