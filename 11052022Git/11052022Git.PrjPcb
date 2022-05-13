@@ -35,7 +35,17 @@ IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-
+ManagedProjectGUID=F1333AA4-F25A-4808-A3AE-70B9DE4199ED
+VaultGUID=D714ACCA-EB16-446F-85AE-967054287A90
+ReleaseVaultName=<Company> Server
+ItemGUID=F1333AA4-F25A-4808-A3AE-70B9DE4199ED
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
